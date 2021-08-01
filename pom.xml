@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>page-similarity-service</module>
+        <module>page-similarity-checker</module>
     </modules>
 
     <properties>
